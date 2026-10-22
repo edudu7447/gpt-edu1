@@ -8,7 +8,11 @@ La aplicación usa los colores del afiche proporcionado y una adaptación de su 
 
 ![Vista previa del panel RIO10K](./Vista-previa.png)
 
-## Versión 1.1.0: tiempos, modalidades y logo
+## Versión 1.1.1: tiempos, modalidades y logo
+
+**El tiempo por nivel lo eliges tú; no depende de las fichas.** Se encuentra al principio de **Configuración → Duración de niveles**. Por ejemplo, Hiperturbo aplica 5 minutos a cada nivel de juego. Para minutos distintos por fila usa **Ciegas y tiempos → Duración (min)**.
+
+Esta actualización corrige el iniciador: si hay otra versión ejecutándose, avisa cómo cerrarla en lugar de abrirla silenciosamente. Se comprobó la actualización con caché antigua: torneo, jugadores, reloj y PIN se conservan, y la nueva versión vuelve a abrir sin internet.
 
 - **Configuración → Duración de niveles**: 5, 10, 20 o 30 minutos y duración personalizada de 1 a 180. Los descansos conservan su tiempo. Aplicar pausa y reinicia el nivel actual, con confirmación.
 - **Ciegas y tiempos**: duración editable por cada nivel; plantillas Hiperturbo (5 min), Turbo (10 min), Estándar (20 min) y Deep Stack (30 min).
@@ -22,7 +26,7 @@ La aplicación usa los colores del afiche proporcionado y una adaptación de su 
 
 ![Control de sobres Mystery](./Mystery.png)
 
-Comprobado: 70 pruebas del motor y guardado, 9 del iniciador; recorridos de navegador para duración, logo persistente, KO, Mystery, deshacer/rehacer, reportes y operación offline.
+Comprobado: 70 pruebas del motor y guardado, 12 del iniciador; recorridos de navegador para duración, logo persistente, KO, Mystery, deshacer/rehacer, reportes y operación offline.
 
 ## Descargar
 
@@ -39,10 +43,10 @@ Mantén abierta la ventana del iniciador mientras diriges el torneo; puedes mini
 ## Actualizar una instalación anterior
 
 1. Exporta primero un respaldo JSON desde Configuración.
-2. Cierra las ventanas RIO10K/TV y el iniciador anterior.
-3. Extrae el nuevo ZIP en otra carpeta y abre su ABRIR-RIO10K.bat.
+2. Cierra las ventanas RIO10K/TV. En la ventana del iniciador anterior pulsa **Ctrl+C** para apagar ese servidor.
+3. Extrae el nuevo ZIP en otra carpeta y abre su **ABRIR-RIO10K.bat**. La ventana del iniciador debe indicar **RIO10K v1.1.1**.
 4. Usa el mismo navegador/perfil; el origen sigue siendo http://127.0.0.1:4178, por lo que tus datos se conservan.
-5. Si aparece el estilo anterior, espera unos segundos a que se guarde la actualización, cierra todas las ventanas RIO10K y vuelve a abrir el iniciador. **No borres los datos del sitio**.
+5. Si aparece la pantalla anterior, pulsa **Ctrl+F5** en la ventana de RIO10K para recargarla. Espera unos segundos, cierra todas las ventanas RIO10K/TV y vuelve a abrir el iniciador nuevo. En el pie de la app debe decir **v1.1.1**. **No borres los datos del sitio**.
 
 ## Datos y respaldos
 
@@ -63,7 +67,7 @@ Get-FileHash .\RIO10K-Windows.zip -Algorithm SHA256
 SHA-256:
 
 ```text
-524e09148baacf9b4c02a5e1ca25ff3e3c532092ae2614be9c4a684f038f655e
+8f4d3f9d8ee1a60c6a7ff5deaaca8b4eb3d1a4b1176bd13f4c56625f6773000e
 ```
 
 Esta rama contiene únicamente el paquete descargable y estas instrucciones. No cambia la aplicación ni los archivos de trabajo del proyecto.
