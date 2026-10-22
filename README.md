@@ -8,6 +8,22 @@ La aplicación usa los colores del afiche proporcionado y una adaptación de su 
 
 ![Vista previa del panel RIO10K](./Vista-previa.png)
 
+## Versión 1.1.0: tiempos, modalidades y logo
+
+- **Configuración → Duración de niveles**: 5, 10, 20 o 30 minutos y duración personalizada de 1 a 180. Los descansos conservan su tiempo. Aplicar pausa y reinicia el nivel actual, con confirmación.
+- **Ciegas y tiempos**: duración editable por cada nivel; plantillas Hiperturbo (5 min), Turbo (10 min), Estándar (20 min) y Deep Stack (30 min).
+- **Configuración → Modalidad**: Hold’em clásico, KO fijo o Mystery Bounty. Se combinan con cualquier velocidad. Para cambiar modalidad con la demo ya registrada, crea un Nuevo torneo; la demo se archivará.
+- **KO fijo**: el bounty está incluido en cada buy-in/reingreso y se contabiliza aparte del pozo principal. Se adjudica al eliminador y se registra su pago. El campeón conserva su propio bounty.
+- **Mystery Bounty**: configura un nivel posterior al cierre del registro. En Premios & acuerdos prepara un sobre por eliminación restante; todos deben sumar el fondo reservado. Cada eliminación de la fase retira un sobre aleatorio, sin reemplazo. Las entradas/reingresos quedan cerrados. Si finalizas antes de activar la fase, la confirmación informa que el fondo irá al campeón.
+- **Configuración → Logo del torneo**: elige tu PNG transparente, SVG, JPG o WebP, revisa la vista previa y guarda. Se aplica al acceso, reloj, TV y reportes y viaja en el respaldo JSON.
+- Deshacer/rehacer incluye recompensas, sorteos y pagos. Los respaldos antiguos se migran conservando el reloj, el PIN y los jugadores.
+
+![Duración, logo y modalidad en Configuración](./Configuracion.png)
+
+![Control de sobres Mystery](./Mystery.png)
+
+Comprobado: 70 pruebas del motor y guardado, 9 del iniciador; recorridos de navegador para duración, logo persistente, KO, Mystery, deshacer/rehacer, reportes y operación offline.
+
 ## Descargar
 
 1. Abre [RIO10K-Windows.zip](./RIO10K-Windows.zip).
@@ -47,7 +63,7 @@ Get-FileHash .\RIO10K-Windows.zip -Algorithm SHA256
 SHA-256:
 
 ```text
-f317be450d3aeb2dcd59547861315c3a5039db6a3870723e126ed6c073999500
+524e09148baacf9b4c02a5e1ca25ff3e3c532092ae2614be9c4a684f038f655e
 ```
 
 Esta rama contiene únicamente el paquete descargable y estas instrucciones. No cambia la aplicación ni los archivos de trabajo del proyecto.
