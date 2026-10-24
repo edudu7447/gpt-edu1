@@ -1,11 +1,9 @@
-# Canciones de cuna — videos verticales
+# Canciones de cuna — animación mejorada a 30 fps
 
-Videos completos con audio, sin letras, en MP4 H.264, 1080 × 1920 y 24 fps. Animaciones suaves en bucle.
+Videos completos sin letras: 1080 × 1920, H.264 y AAC. Tres planos de nubes, balanceo del personaje y estrellas con movimientos independientes. Animación continua con ciclo de 36 segundos. No se incluye proyecto de Adobe After Effects.
 
-- [Descargar Dreams of Light](https://github.com/edudu7447/gpt-edu1/raw/refs/heads/descarga-canciones-cuna/Dreams-of-Light-Vertical.mp4)
-- [Descargar Float Away](https://github.com/edudu7447/gpt-edu1/raw/refs/heads/descarga-canciones-cuna/Float-Away-Vertical.mp4)
-- [Descargar ambos videos y portadas en ZIP](https://github.com/edudu7447/gpt-edu1/raw/refs/heads/descarga-canciones-cuna/Canciones-de-Cuna-Videos.zip)
+- [Descargar ambos videos y portadas](./Canciones-de-Cuna-30fps.zip)
+- [Dreams of Light, 30 fps](./Dreams-of-Light-30fps.mp4)
+- [Float Away, 30 fps](./Float-Away-30fps.mp4)
 
-Si el navegador reproduce un video, usa su menú de tres puntos para descargarlo. El ZIP permite descargar ambos juntos; después selecciona «Extraer todo».
-
-Publicados con autorización del usuario. Esta rama contiene únicamente los videos y sus archivos de entrega.
+En la página del archivo usa Download raw file. Si el navegador reproduce el MP4, usa el menú de descarga del reproductor.
