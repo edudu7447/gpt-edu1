@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:02,333
+Un marcapasos no tiene que disparar impulsos continuamente.
+
+2
+00:00:02,333 --> 00:00:04,667
+Muchos están diseñados para detectar tu ritmo y
+
+3
+00:00:04,667 --> 00:00:07,000
+actuar cuando hace falta.
+
+4
+00:00:07,000 --> 00:00:10,667
+El corazón normalmente genera señales eléctricas que coordinan
+
+5
+00:00:10,667 --> 00:00:14,333
+sus contracciones. Si algunas señales fallan, el ritmo
+
+6
+00:00:14,333 --> 00:00:18,000
+puede volverse demasiado lento.
+
+7
+00:00:18,000 --> 00:00:22,000
+Un marcapasos vigila esa actividad mediante sus sensores.
+
+8
+00:00:22,000 --> 00:00:26,000
+Su programación determina cuándo una señal es suficiente
+
+9
+00:00:26,000 --> 00:00:30,000
+y cuándo se necesita estimulación.
+
+10
+00:00:30,000 --> 00:00:34,000
+Si no detecta un latido dentro del intervalo
+
+11
+00:00:34,000 --> 00:00:38,000
+previsto, envía un pequeño impulso eléctrico. Ese impulso
+
+12
+00:00:38,000 --> 00:00:42,000
+puede activar el tejido cardíaco.
+
+13
+00:00:42,000 --> 00:00:46,000
+Cuando reconoce actividad propia adecuada, puede inhibir ese
+
+14
+00:00:46,000 --> 00:00:50,000
+impulso. Es una forma de acompañar al corazón,
+
+15
+00:00:50,000 --> 00:00:54,000
+según las necesidades del paciente.
+
+16
+00:00:54,000 --> 00:00:58,000
+Algunos modelos también ajustan la frecuencia de estimulación
+
+17
+00:00:58,000 --> 00:01:02,000
+según señales relacionadas con la actividad física. El
+
+18
+00:01:02,000 --> 00:01:06,000
+funcionamiento depende del dispositivo y su configuración.
+
+19
+00:01:06,000 --> 00:01:09,000
+Un marcapasos no es lo mismo que un
+
+20
+00:01:09,000 --> 00:01:12,000
+desfibrilador. Su trabajo habitual es aportar impulsos oportunos
+
+21
+00:01:12,000 --> 00:01:15,000
+cuando el ritmo necesita apoyo.

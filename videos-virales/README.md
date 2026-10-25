@@ -1,5 +1,13 @@
 # Videos virales — El cuerpo por dentro
 
+## Segunda serie: 10 videos nuevos, 60 fps y sin voz
+
+[**Abrir los videos nuevos 11–20**](serie-02-60fps/README.md) · [**Descargar los diez nuevos en ZIP**](https://github.com/edudu7447/gpt-edu1/raw/refs/heads/videos-virales/videos-virales/10_nuevos_videos_60fps_sin_voz.zip)
+
+1080 × 1920, 60 fps, 75 segundos por pieza. Los guiones 01–20 están disponibles en [TXT para generar la voz](guiones-01-20/texto_para_voz) y [ZIP](20_guiones_para_voz.zip).
+
+## Primera serie: videos 01–10
+
 10 videos explicativos en MP4, con animación esquemática 2D, voz sintética básica en español y subtítulos integrados. Formato vertical 720 × 1280, 24 fps.
 
 **[Descargar los 10 videos juntos — ZIP, 27,5 MB](https://github.com/edudu7447/gpt-edu1/raw/refs/heads/videos-virales/videos-virales/10_videos_MP4.zip)**

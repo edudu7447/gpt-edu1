@@ -1,0 +1,11 @@
+SERIE 02 — DIEZ VIDEOS NUEVOS, SIN VOZ
+
+Los MP4 contienen únicamente una pista de video: 1080 × 1920, 60 fps, 75 segundos cada uno. No incluyen voz, música ni efectos de sonido.
+
+Las animaciones son motion graphics esquemáticos 2D con sombreado, brillos, curvas animadas, partículas, cambios de escala y transiciones suaves. Los elementos médicos no están a escala.
+
+Abre index.html después de descomprimir el ZIP para consultar los videos en tu navegador. También puedes abrir directamente cualquier MP4 de la carpeta mp4.
+
+Los textos SRT coinciden con los textos que aparecen en pantalla. Para añadir una voz, usa los guiones TXT entregados por separado. Lo más preciso es generar la narración por escenas y ajustar cada bloque a los intervalos del guion.
+
+Los guiones 01–10 pertenecen a la primera serie. Los 11–20 corresponden a estos videos.

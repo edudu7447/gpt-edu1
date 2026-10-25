@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:02,333
+Una resonancia puede construir imágenes del interior de
+
+2
+00:00:02,333 --> 00:00:04,667
+tu cuerpo sin abrirlo y sin utilizar rayos
+
+3
+00:00:04,667 --> 00:00:07,000
+X. ¿De dónde sale la imagen?
+
+4
+00:00:07,000 --> 00:00:10,667
+Tu cuerpo contiene mucho hidrógeno. Los núcleos de
+
+5
+00:00:10,667 --> 00:00:14,333
+esos átomos se comportan como pequeños imanes, y
+
+6
+00:00:14,333 --> 00:00:18,000
+un campo intenso crea una magnetización neta.
+
+7
+00:00:18,000 --> 00:00:22,000
+Un pulso de radiofrecuencia altera esa magnetización. Al
+
+8
+00:00:22,000 --> 00:00:26,000
+terminar el pulso, el sistema vuelve hacia su
+
+9
+00:00:26,000 --> 00:00:30,000
+equilibrio y genera una señal detectable.
+
+10
+00:00:30,000 --> 00:00:34,000
+Las bobinas reciben esa respuesta. Diferentes tejidos tienen
+
+11
+00:00:34,000 --> 00:00:38,000
+propiedades distintas, así que sus señales cambian de
+
+12
+00:00:38,000 --> 00:00:42,000
+una manera característica.
+
+13
+00:00:42,000 --> 00:00:46,000
+Otros campos, llamados gradientes, permiten codificar de qué
+
+14
+00:00:46,000 --> 00:00:50,000
+zona viene cada señal. Sin esa información, no
+
+15
+00:00:50,000 --> 00:00:54,000
+sabríamos colocarla en el espacio.
+
+16
+00:00:54,000 --> 00:00:58,000
+Un ordenador combina las mediciones y reconstruye cortes
+
+17
+00:00:58,000 --> 00:01:02,000
+del cuerpo. El contraste depende de cómo se
+
+18
+00:01:02,000 --> 00:01:06,000
+haya adquirido y procesado la señal.
+
+19
+00:01:06,000 --> 00:01:09,000
+La máquina no toma una fotografía directa de
+
+20
+00:01:09,000 --> 00:01:12,000
+tus órganos: mide respuestas magnéticas y las convierte
+
+21
+00:01:12,000 --> 00:01:15,000
+en imágenes.

@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:02,333
+Un antibiótico puede eliminar muchas bacterias y dejar
+
+2
+00:00:02,333 --> 00:00:04,667
+vivas unas pocas. Esas supervivientes pueden cambiar lo
+
+3
+00:00:04,667 --> 00:00:07,000
+que ocurre en la siguiente infección.
+
+4
+00:00:07,000 --> 00:00:10,667
+Los antibióticos atacan funciones bacterianas concretas, como fabricar
+
+5
+00:00:10,667 --> 00:00:14,333
+la pared celular o producir proteínas. No todos
+
+6
+00:00:14,333 --> 00:00:18,000
+actúan sobre el mismo objetivo.
+
+7
+00:00:18,000 --> 00:00:22,000
+Algunas bacterias ya tienen variantes o genes que
+
+8
+00:00:22,000 --> 00:00:26,000
+dificultan ese ataque. Pueden modificar el objetivo, expulsar
+
+9
+00:00:26,000 --> 00:00:30,000
+el fármaco o inactivarlo.
+
+10
+00:00:30,000 --> 00:00:34,000
+Durante la exposición, las sensibles disminuyen. Las resistentes
+
+11
+00:00:34,000 --> 00:00:38,000
+pueden sobrevivir y multiplicarse, aumentando su proporción dentro
+
+12
+00:00:38,000 --> 00:00:42,000
+de la población.
+
+13
+00:00:42,000 --> 00:00:46,000
+Además, algunas bacterias pueden transferirse genes de resistencia.
+
+14
+00:00:46,000 --> 00:00:50,000
+Así, una característica útil para sobrevivir puede extenderse
+
+15
+00:00:50,000 --> 00:00:54,000
+entre ellas.
+
+16
+00:00:54,000 --> 00:00:58,000
+El problema no es que tu cuerpo se
+
+17
+00:00:58,000 --> 00:01:02,000
+acostumbre al medicamento: son las bacterias las que
+
+18
+00:01:02,000 --> 00:01:06,000
+resisten. Y los antibióticos no tratan infecciones virales.
+
+19
+00:01:06,000 --> 00:01:09,000
+Por eso deben usarse cuando están indicados y
+
+20
+00:01:09,000 --> 00:01:12,000
+siguiendo la pauta profesional. Cambiar dosis o duración
+
+21
+00:01:12,000 --> 00:01:15,000
+por tu cuenta puede ser perjudicial.

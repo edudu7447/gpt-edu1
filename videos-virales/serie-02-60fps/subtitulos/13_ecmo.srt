@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:02,333
+Cuando unos pulmones fallan gravemente, una máquina puede
+
+2
+00:00:02,333 --> 00:00:04,667
+realizar parte del intercambio de gases fuera del
+
+3
+00:00:04,667 --> 00:00:07,000
+cuerpo. Se llama ECMO.
+
+4
+00:00:07,000 --> 00:00:10,667
+Veamos la ECMO venovenosa. Extrae sangre de una
+
+5
+00:00:10,667 --> 00:00:14,333
+vena y una bomba la impulsa hacia un
+
+6
+00:00:14,333 --> 00:00:18,000
+dispositivo llamado oxigenador de membrana.
+
+7
+00:00:18,000 --> 00:00:22,000
+Dentro del oxigenador, la sangre y una corriente
+
+8
+00:00:22,000 --> 00:00:26,000
+de gas circulan separadas por una barrera muy
+
+9
+00:00:26,000 --> 00:00:30,000
+fina. No se mezclan directamente.
+
+10
+00:00:30,000 --> 00:00:34,000
+El oxígeno atraviesa esa membrana hacia la sangre.
+
+11
+00:00:34,000 --> 00:00:38,000
+El dióxido de carbono hace el recorrido contrario,
+
+12
+00:00:38,000 --> 00:00:42,000
+siguiendo diferencias de presión parcial.
+
+13
+00:00:42,000 --> 00:00:46,000
+La sangre vuelve a una vena. El corazón
+
+14
+00:00:46,000 --> 00:00:50,000
+del paciente sigue bombeándola para que el oxígeno
+
+15
+00:00:50,000 --> 00:00:54,000
+pueda llegar a los tejidos.
+
+16
+00:00:54,000 --> 00:00:58,000
+Este soporte puede ganar tiempo mientras se trata
+
+17
+00:00:58,000 --> 00:01:02,000
+la causa del fallo pulmonar. Requiere cuidados intensivos
+
+18
+00:01:02,000 --> 00:01:06,000
+y vigilancia por sus posibles complicaciones.
+
+19
+00:01:06,000 --> 00:01:09,000
+La ECMO no cura por sí sola el
+
+20
+00:01:09,000 --> 00:01:12,000
+pulmón. Mantiene una función vital mientras el equipo
+
+21
+00:01:12,000 --> 00:01:15,000
+trata de recuperarla.

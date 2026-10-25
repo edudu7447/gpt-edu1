@@ -1,0 +1,122 @@
+[
+  {
+    "id": 11,
+    "archivo": "11_resonancia_magnetica_60fps_sin_voz.mp4",
+    "resolucion": "1080x1920",
+    "fps": 60,
+    "fotogramas": 4500,
+    "duracion_segundos": 75,
+    "pistas_audio": 0,
+    "decodificacion": "OK",
+    "bytes": 4616946,
+    "sha256": "a4ef30db9a16cbced85d03e7593359a766128d0abbc3fe1ee55b4b9c425ef725"
+  },
+  {
+    "id": 12,
+    "archivo": "12_implante_coclear_60fps_sin_voz.mp4",
+    "resolucion": "1080x1920",
+    "fps": 60,
+    "fotogramas": 4500,
+    "duracion_segundos": 75,
+    "pistas_audio": 0,
+    "decodificacion": "OK",
+    "bytes": 3630798,
+    "sha256": "024e38c8c775ca40d261da0f2d38562eb54a0f424199136991d24513162fb0e3"
+  },
+  {
+    "id": 13,
+    "archivo": "13_ecmo_60fps_sin_voz.mp4",
+    "resolucion": "1080x1920",
+    "fps": 60,
+    "fotogramas": 4500,
+    "duracion_segundos": 75,
+    "pistas_audio": 0,
+    "decodificacion": "OK",
+    "bytes": 3612295,
+    "sha256": "dcf5c347cba402e5aef3dc762678ed37a25a898203da2f651d89190decabd261"
+  },
+  {
+    "id": 14,
+    "archivo": "14_marcapasos_60fps_sin_voz.mp4",
+    "resolucion": "1080x1920",
+    "fps": 60,
+    "fotogramas": 4500,
+    "duracion_segundos": 75,
+    "pistas_audio": 0,
+    "decodificacion": "OK",
+    "bytes": 6800885,
+    "sha256": "c6823b9c3b4f4bb3299faad15047954873133d04700b2e8306fff6c1f42c227d"
+  },
+  {
+    "id": 15,
+    "archivo": "15_resistencia_antibioticos_60fps_sin_voz.mp4",
+    "resolucion": "1080x1920",
+    "fps": 60,
+    "fotogramas": 4500,
+    "duracion_segundos": 75,
+    "pistas_audio": 0,
+    "decodificacion": "OK",
+    "bytes": 5703157,
+    "sha256": "9813c15717cdbe50f96f53bb437ce58156a092a3bd8c780209ccec865c2088be"
+  },
+  {
+    "id": 16,
+    "archivo": "16_fiebre_60fps_sin_voz.mp4",
+    "resolucion": "1080x1920",
+    "fps": 60,
+    "fotogramas": 4500,
+    "duracion_segundos": 75,
+    "pistas_audio": 0,
+    "decodificacion": "OK",
+    "bytes": 2255238,
+    "sha256": "59c1c31266b74992a12c4a664d092b2d836cd7688124aeb852640d06413aeccf"
+  },
+  {
+    "id": 17,
+    "archivo": "17_cicatrizacion_60fps_sin_voz.mp4",
+    "resolucion": "1080x1920",
+    "fps": 60,
+    "fotogramas": 4500,
+    "duracion_segundos": 75,
+    "pistas_audio": 0,
+    "decodificacion": "OK",
+    "bytes": 2193816,
+    "sha256": "e5fdf844e0a08b65eabaad0f5f2fb36bbbeed3f5ff0c60c80205baffa528454c"
+  },
+  {
+    "id": 18,
+    "archivo": "18_dolor_fantasma_60fps_sin_voz.mp4",
+    "resolucion": "1080x1920",
+    "fps": 60,
+    "fotogramas": 4500,
+    "duracion_segundos": 75,
+    "pistas_audio": 0,
+    "decodificacion": "OK",
+    "bytes": 2463710,
+    "sha256": "af7299ed0f68c9ba300f7a4eaccfdb0fb4878a593dad751f2dadfb2de417ba6d"
+  },
+  {
+    "id": 19,
+    "archivo": "19_apnea_sueno_60fps_sin_voz.mp4",
+    "resolucion": "1080x1920",
+    "fps": 60,
+    "fotogramas": 4500,
+    "duracion_segundos": 75,
+    "pistas_audio": 0,
+    "decodificacion": "OK",
+    "bytes": 3204262,
+    "sha256": "413265a5ae75191a5745a5ba32deaa6fe7a2da4989a5ee1d5427a09814194931"
+  },
+  {
+    "id": 20,
+    "archivo": "20_rechazo_trasplante_60fps_sin_voz.mp4",
+    "resolucion": "1080x1920",
+    "fps": 60,
+    "fotogramas": 4500,
+    "duracion_segundos": 75,
+    "pistas_audio": 0,
+    "decodificacion": "OK",
+    "bytes": 2513445,
+    "sha256": "bcd7b109d55b11453ea7265ce5474ceeb0ffbec9edda3c2792aa1973f501a6d3"
+  }
+]

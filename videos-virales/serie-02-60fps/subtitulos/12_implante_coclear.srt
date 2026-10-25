@@ -1,0 +1,83 @@
+1
+00:00:00,000 --> 00:00:02,333
+Este dispositivo puede transformar sonidos en impulsos eléctricos
+
+2
+00:00:02,333 --> 00:00:04,667
+para estimular el nervio auditivo. ¿Cómo consigue saltarse
+
+3
+00:00:04,667 --> 00:00:07,000
+una parte del oído?
+
+4
+00:00:07,000 --> 00:00:10,667
+Normalmente, el sonido hace vibrar estructuras del oído.
+
+5
+00:00:10,667 --> 00:00:14,333
+En la cóclea, las células ciliadas ayudan a
+
+6
+00:00:14,333 --> 00:00:18,000
+convertir esas vibraciones en señales nerviosas.
+
+7
+00:00:18,000 --> 00:00:22,000
+Si muchas células ciliadas están dañadas, aumentar el
+
+8
+00:00:22,000 --> 00:00:26,000
+volumen puede no ser suficiente. La conversión de
+
+9
+00:00:26,000 --> 00:00:30,000
+vibración en señal ya no funciona bien.
+
+10
+00:00:30,000 --> 00:00:34,000
+El implante usa un micrófono y un procesador
+
+11
+00:00:34,000 --> 00:00:38,000
+externo. Analiza el sonido y lo transforma en
+
+12
+00:00:38,000 --> 00:00:42,000
+instrucciones que envía al componente implantado.
+
+13
+00:00:42,000 --> 00:00:46,000
+Dentro de la cóclea, una guía de electrodos
+
+14
+00:00:46,000 --> 00:00:50,000
+estimula distintas regiones. Así transmite información relacionada con
+
+15
+00:00:50,000 --> 00:00:54,000
+las frecuencias del sonido.
+
+16
+00:00:54,000 --> 00:00:58,000
+El nervio lleva esa actividad al cerebro. Con
+
+17
+00:00:58,000 --> 00:01:02,000
+adaptación y rehabilitación, la persona aprende a interpretar
+
+18
+00:01:02,000 --> 00:01:06,000
+la nueva información que recibe.
+
+19
+00:01:06,000 --> 00:01:09,000
+No reproduce exactamente la audición natural. Crea otra
+
+20
+00:01:09,000 --> 00:01:12,000
+vía de entrada para información que antes llegaba
+
+21
+00:01:12,000 --> 00:01:15,000
+con mucha dificultad.
