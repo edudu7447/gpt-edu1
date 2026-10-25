@@ -22,3 +22,11 @@
 Si GitHub abre una página del archivo en lugar de descargarlo, utiliza **Download raw file / Descargar archivo sin procesar**. Para abrir un repositorio privado, inicia sesión con una cuenta que tenga acceso.
 
 Las representaciones son esquemáticas y no están a escala. Los videos explican mecanismos; no incluyen pautas de tratamiento individual.
+
+## Guiones de voz de los 20 videos
+
+- [Abrir los veinte guiones TXT, separados y listos para copiar](guiones-01-20/texto_para_voz).
+- [Descargar todos los guiones en ZIP](https://github.com/edudu7447/gpt-edu1/raw/refs/heads/videos-virales/videos-virales/20_guiones_para_voz.zip).
+- [Leer los veinte guiones en PDF](guiones-01-20/20_guiones_para_voz.pdf).
+- [Descargar el documento editable Word](guiones-01-20/20_guiones_para_voz.docx).
+- [Consultar los guiones con tiempos por escena](guiones-01-20/por_escenas).

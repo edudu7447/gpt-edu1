@@ -1,0 +1,14 @@
+GUIONES DE NARRACIÓN — 20 VIDEOS
+
+texto_para_voz: veinte archivos TXT que contienen únicamente la narración. Puedes copiarlos directamente en tu generador de voz.
+por_escenas: los mismos guiones con tiempos y dirección visual, útiles para ajustar la voz al montaje.
+
+01–10: guiones de los diez videos entregados anteriormente. Los tiempos corresponden a las duraciones de esa entrega; otra voz puede requerir ajustes.
+11–20: guiones de los diez videos nuevos. Cada pieza dura 75 segundos y se divide en 7 escenas. Los MP4 nuevos tienen textos en pantalla y no contienen pista de audio.
+
+Para la voz nueva, genera cada escena por separado si necesitas encajar con precisión. Si generas el guion entero, ajusta pausas y velocidad para llegar a la duración del video. No añadas encabezados, números de escena ni instrucciones a la locución.
+Tono sugerido: español latinoamericano claro, curioso y sereno; no anunciar como cura garantizada lo que el texto describe como tratamiento o mecanismo.
+
+Pronunciación sugerida: ARN, «a erre ene»; ADN, «a de ene»; IgE, «inmunoglobulina e»; CAR-T, «car te»; CRISPR, «crísper»; ECMO, «ecmo»; HLA, «hache ele a»; CPAP, «ce pap»; CO2, «dióxido de carbono».
+
+Los SRT nuevos coinciden con los textos de los MP4 sin voz; son una referencia de edición, no una sincronización con una narración que todavía no se ha generado.

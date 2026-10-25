@@ -1,0 +1,13 @@
+Este dispositivo puede transformar sonidos en impulsos eléctricos para estimular el nervio auditivo. ¿Cómo consigue saltarse una parte del oído?
+
+Normalmente, el sonido hace vibrar estructuras del oído. En la cóclea, las células ciliadas ayudan a convertir esas vibraciones en señales nerviosas.
+
+Si muchas células ciliadas están dañadas, aumentar el volumen puede no ser suficiente. La conversión de vibración en señal ya no funciona bien.
+
+El implante usa un micrófono y un procesador externo. Analiza el sonido y lo transforma en instrucciones que envía al componente implantado.
+
+Dentro de la cóclea, una guía de electrodos estimula distintas regiones. Así transmite información relacionada con las frecuencias del sonido.
+
+El nervio lleva esa actividad al cerebro. Con adaptación y rehabilitación, la persona aprende a interpretar la nueva información que recibe.
+
+No reproduce exactamente la audición natural. Crea otra vía de entrada para información que antes llegaba con mucha dificultad.

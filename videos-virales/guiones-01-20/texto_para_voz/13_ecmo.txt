@@ -1,0 +1,13 @@
+Cuando unos pulmones fallan gravemente, una máquina puede realizar parte del intercambio de gases fuera del cuerpo. Se llama ECMO.
+
+Veamos la ECMO venovenosa. Extrae sangre de una vena y una bomba la impulsa hacia un dispositivo llamado oxigenador de membrana.
+
+Dentro del oxigenador, la sangre y una corriente de gas circulan separadas por una barrera muy fina. No se mezclan directamente.
+
+El oxígeno atraviesa esa membrana hacia la sangre. El dióxido de carbono hace el recorrido contrario, siguiendo diferencias de presión parcial.
+
+La sangre vuelve a una vena. El corazón del paciente sigue bombeándola para que el oxígeno pueda llegar a los tejidos.
+
+Este soporte puede ganar tiempo mientras se trata la causa del fallo pulmonar. Requiere cuidados intensivos y vigilancia por sus posibles complicaciones.
+
+La ECMO no cura por sí sola el pulmón. Mantiene una función vital mientras el equipo trata de recuperarla.

@@ -1,0 +1,13 @@
+Pueden extraer células de tu sangre, modificarlas y devolvértelas con una nueva forma de reconocer un cáncer.
+
+Los linfocitos T participan en la defensa del organismo. Pero una célula tumoral puede evitar que la respuesta inmunitaria la reconozca o la elimine eficazmente.
+
+En una terapia CAR-T, se recogen linfocitos del paciente. En el laboratorio, se modifican para fabricar un receptor diseñado para un objetivo concreto.
+
+Ese receptor reconoce una determinada molécula de la superficie celular. Las células modificadas se multiplican hasta obtener la cantidad necesaria para el tratamiento.
+
+Tras la preparación médica del paciente, se administran. Cuando encuentran el objetivo, pueden activarse, multiplicarse y desencadenar la destrucción de las células que lo presentan.
+
+Ya se utilizan contra determinados cánceres de la sangre. Pero la activación puede causar efectos adversos importantes y también afectar células sanas que compartan ese objetivo.
+
+La idea es cambiar cómo reconocen el peligro tus propias defensas. Su potencial depende de elegir bien el objetivo y controlar la respuesta.

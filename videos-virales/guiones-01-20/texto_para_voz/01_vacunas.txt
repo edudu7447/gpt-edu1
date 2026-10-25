@@ -1,0 +1,13 @@
+Tu cuerpo puede prepararse para un virus que todavía no ha encontrado. ¿Cómo?
+
+Veamos una vacuna de ARN mensajero. Lleva instrucciones temporales para fabricar una proteína del virus, sin introducir el virus completo.
+
+Algunas células leen esas instrucciones y producen la proteína. El ARN se degrada después; no necesita entrar en el núcleo ni modificar tu ADN.
+
+Células del sistema inmunitario presentan fragmentos de esa proteína. En los ganglios, ese encuentro ayuda a activar defensas capaces de reconocerla.
+
+Algunas células producen anticuerpos. Otras coordinan la respuesta o ayudan a combatir células infectadas. Después, parte de esas defensas permanece como memoria.
+
+Si el virus aparece más adelante, esa memoria permite responder con mayor rapidez. La protección puede reducir especialmente el riesgo de enfermar gravemente.
+
+No significa que sea imposible infectarte. Significa que tu cuerpo puede llegar al encuentro con una ventaja: haber aprendido a reconocer al enemigo.

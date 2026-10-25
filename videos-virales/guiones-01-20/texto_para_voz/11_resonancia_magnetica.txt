@@ -1,0 +1,13 @@
+Una resonancia puede construir imágenes del interior de tu cuerpo sin abrirlo y sin utilizar rayos X. ¿De dónde sale la imagen?
+
+Tu cuerpo contiene mucho hidrógeno. Los núcleos de esos átomos se comportan como pequeños imanes, y un campo intenso crea una magnetización neta.
+
+Un pulso de radiofrecuencia altera esa magnetización. Al terminar el pulso, el sistema vuelve hacia su equilibrio y genera una señal detectable.
+
+Las bobinas reciben esa respuesta. Diferentes tejidos tienen propiedades distintas, así que sus señales cambian de una manera característica.
+
+Otros campos, llamados gradientes, permiten codificar de qué zona viene cada señal. Sin esa información, no sabríamos colocarla en el espacio.
+
+Un ordenador combina las mediciones y reconstruye cortes del cuerpo. El contraste depende de cómo se haya adquirido y procesado la señal.
+
+La máquina no toma una fotografía directa de tus órganos: mide respuestas magnéticas y las convierte en imágenes.

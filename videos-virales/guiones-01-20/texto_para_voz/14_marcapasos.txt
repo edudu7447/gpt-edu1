@@ -1,0 +1,13 @@
+Un marcapasos no tiene que disparar impulsos continuamente. Muchos están diseñados para detectar tu ritmo y actuar cuando hace falta.
+
+El corazón normalmente genera señales eléctricas que coordinan sus contracciones. Si algunas señales fallan, el ritmo puede volverse demasiado lento.
+
+Un marcapasos vigila esa actividad mediante sus sensores. Su programación determina cuándo una señal es suficiente y cuándo se necesita estimulación.
+
+Si no detecta un latido dentro del intervalo previsto, envía un pequeño impulso eléctrico. Ese impulso puede activar el tejido cardíaco.
+
+Cuando reconoce actividad propia adecuada, puede inhibir ese impulso. Es una forma de acompañar al corazón, según las necesidades del paciente.
+
+Algunos modelos también ajustan la frecuencia de estimulación según señales relacionadas con la actividad física. El funcionamiento depende del dispositivo y su configuración.
+
+Un marcapasos no es lo mismo que un desfibrilador. Su trabajo habitual es aportar impulsos oportunos cuando el ritmo necesita apoyo.
